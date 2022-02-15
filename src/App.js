@@ -31,6 +31,9 @@ class App extends react.Component {
     // console.log("item", itemRef);
     // });
   }
+  componentDidMount(){
+    document.title = "Rittida"
+  }
 
   render(){
     return (
