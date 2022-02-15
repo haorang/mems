@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/mems/static/css/main.073c9b0a.css",
-    "main.js": "/mems/static/js/main.be198c84.js",
+    "main.css": "/mems/static/css/main.40d1cce2.css",
+    "main.js": "/mems/static/js/main.a028bdaf.js",
     "static/js/787.fb265414.chunk.js": "/mems/static/js/787.fb265414.chunk.js",
+    "static/media/static.gif": "/mems/static/media/static.ec4f5cb76c0fe81f11ea.gif",
+    "static/media/ostv.png": "/mems/static/media/ostv.aedf4cca30ea4f3be7c5.png",
+    "static/media/heart.png": "/mems/static/media/heart.f4692cf37ea69ef9a0f3.png",
+    "static/media/arrow.png": "/mems/static/media/arrow.019862d87db5320edc34.png",
     "static/media/logo.svg": "/mems/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mems/index.html",
-    "main.073c9b0a.css.map": "/mems/static/css/main.073c9b0a.css.map",
-    "main.be198c84.js.map": "/mems/static/js/main.be198c84.js.map",
+    "main.40d1cce2.css.map": "/mems/static/css/main.40d1cce2.css.map",
+    "main.a028bdaf.js.map": "/mems/static/js/main.a028bdaf.js.map",
     "787.fb265414.chunk.js.map": "/mems/static/js/787.fb265414.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.be198c84.js"
+    "static/css/main.40d1cce2.css",
+    "static/js/main.a028bdaf.js"
   ]
 }
